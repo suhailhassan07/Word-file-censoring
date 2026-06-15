@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+python-docx
+presidio-analyzer
+spacy
+python-multipart
